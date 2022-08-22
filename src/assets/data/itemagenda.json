@@ -1,0 +1,45 @@
+{
+    "data": [
+        {
+            "id": 1000,
+            "hora": "8:00-8:45",
+            "nombres": "german dario",
+            "apellidos": "arbelaez rios",
+            "nrodocumento": "98586812"
+            
+        },
+        {
+            "id": 1000,
+            "hora": "8:00-8:45",
+            "nombres": "juan",
+            "apellidos": "arbelaez rios",
+            "nrodocumento": "98587678"
+            
+        },
+        {
+            "id": 1000,
+            "hora": "9:00-9:45",
+            "nombres": "german dario",
+            "apellidos": "arbelaez rios",
+            "nrodocumento": "9859876"
+            
+        },
+        {
+            "id": 1000,
+            "hora": "9:00-9:45",
+            "nombres": "javier",
+            "apellidos": "arbelaez rios",
+            "nrodocumento": "98509876"
+            
+        },
+        {
+            "id": 1000,
+            "hora": "10:00-10:45",
+            "nombres": "carlos",
+            "apellidos": "arbelaez rios",
+            "nrodocumento": "98586812"
+            
+        }
+    ]
+
+}

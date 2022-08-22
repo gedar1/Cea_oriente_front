@@ -1,0 +1,12 @@
+{"tipo_doc" :[
+
+    {"id":"1","nombre_identificacion": "Cédula de Ciudadania"},
+    {"id":"2","nombre_identificacion": "Tarjeta de Identidad"},
+    {"id":"3","nombre_identificacion": "NIT"},
+    {"id":"4","nombre_identificacion": "Registro Civil"},
+    {"id":"5","nombre_identificacion": "Cédula de Extranjeria"},
+    {"id":"6","nombre_identificacion": "Pasaporte"},
+    {"id":"7","nombre_identificacion": "Número de Identificación Personal"},
+    {"id":"8","nombre_identificacion": "Adulto sin Identificación"}
+    ]
+}

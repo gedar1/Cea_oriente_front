@@ -1,0 +1,42 @@
+{
+	"table": "arl",
+	"rows":
+	[
+		{
+			"id_arl": 1,
+			"nombre_arl": "A.R.L. Seguros de Vida Colpatria S.A."
+		},
+		{
+			"id_arl": 2,
+			"nombre_arl": "Compañía de Seguros Bolívar S.A."
+		},
+		{
+			"id_arl": 3,
+			"nombre_arl": "Seguros de Vida Aurora"
+		},
+		{
+			"id_arl": 4,
+			"nombre_arl": "ARP Alfa"
+		},
+		{
+			"id_arl": 5,
+			"nombre_arl": "Liberty Seguros de Vida S.A."
+		},
+		{
+			"id_arl": 6,
+			"nombre_arl": "Positiva Compañía de Seguros"
+		},
+		{
+			"id_arl": 7,
+			"nombre_arl": "Colmena Riesgos Profesionales"
+		},
+		{
+			"id_arl": 8,
+			"nombre_arl": "ARL Sura"
+		},
+		{
+			"id_arl": 9,
+			"nombre_arl": "La Equidad Seguros de Vida"
+		}
+	]
+}

@@ -1,0 +1,214 @@
+//Suggested location to add your overrides so that migration would be easy by just updating the SASS folder in the future
+
+.form-demo  {
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 100%;
+
+    margin-top:10px;
+    background-color: #bec1c221;
+    
+    /* margin-left: 10%; */
+   
+}
+   
+.field{
+    margin-top:20px;
+    margin-bottom: 0.5rem;
+    margin-right:5px ;
+   
+    width:300px;
+    
+     
+}
+
+
+
+.form-demo  form {
+    margin-top: 1rem;
+}
+.form-demo   {
+    margin-bottom: 1rem;
+    margin-right:5px ;
+    margin-left: 5px;
+    width: 100%;
+    
+}
+@media screen and (max-width: 960px) {
+    .form-demo  {
+        width: 80%;
+    }
+}
+@media screen and (max-width: 640px) {
+    .form-demo  {
+        width: 100%;
+        min-width: 0;
+    }
+}
+.p-panel .p-panel-header {
+    display:flex;
+    border: 1px solid #dee2e6;
+    padding: 0.75rem;
+    background: #f8f9fa;
+    color: #343a40;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    width: 100%;
+}
+
+.p-button {
+    color: #ffffff;
+    background-color:#da1c1c ;
+    border: 1px solid #e1e4eb;
+    padding: 0.75rem 1.25rem;
+    font-size: 1rem;
+    transition: background-color 0.2s, color 0.2s, border-color 0.2s, box-shadow 0.2s;
+    border-radius: 6px;
+    height: 56px;
+}
+.p-button:hover{
+
+    background-color:#18db69 ;
+}
+.p-button-active {
+    color: #ffffff;
+    background-color:#28b161 ;
+    border: 1px solid #e1e4eb;
+    padding: 0.75rem 1.25rem;
+    font-size: 1rem;
+    transition: background-color 0.2s, color 0.2s, border-color 0.2s, box-shadow 0.2s;
+    border-radius: 6px;
+    height: 56px;
+}
+
+.p-button:hover{
+
+    background-color:#18db69 ;
+}
+
+.p-toolbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    background: #f8f9fa;
+    border: 1px solid #dee2e6;
+    padding: 1.25rem;
+    border-radius: 6px;
+    width: max-content;
+    
+}
+
+.datatable-rowgroup-demo .p-rowgroup-footer td {
+    font-weight: 700;
+}
+
+.datatable-rowgroup-demo .p-rowgroup-header span {
+    font-weight: 700;
+}
+
+.datatable-rowgroup-demo .p-rowgroup-header .p-row-toggler {
+    vertical-align: middle;
+    margin-right: .25rem;
+}
+
+.datatable-crud-demo .table-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+@media screen and (max-width: 960px) {
+    .datatable-crud-demo .table-header {
+        align-items: flex-start;
+    }
+}
+.datatable-crud-demo .product-image {
+    width: 100px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+.datatable-crud-demo .p-dialog .product-image {
+    width: 150px;
+    margin: 0 auto 2rem auto;
+    display: block;
+}
+.datatable-crud-demo .confirmation-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+@media screen and (max-width: 960px) {
+    .datatable-crud-demo .p-toolbar {
+        flex-wrap: wrap;
+    }
+    .datatable-crud-demo .p-toolbar .p-button {
+        margin-bottom: 0.25rem;
+    }
+    .datatable-crud-demo .table-header {
+        flex-direction: column;
+    }
+    .datatable-crud-demo .table-header .p-input-icon-left, .datatable-crud-demo .table-header input {
+        width:100%;
+    }
+}
+
+.table-header{
+    flex-direction: column;
+    justify-content: space-around;
+    align-content: flex-end;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+
+}
+
+.dialog-demo .p-button {
+    margin: 0 .5rem 0 0;
+    min-width: 10rem;
+}
+
+.dialog-demo p {
+    margin: 0;
+    line-height: 1.5;
+}
+
+.dialog-demo .p-dialog .p-button {
+    min-width: 6rem;
+}
+
+.cardUserheader  {
+    display:flex;
+    width: 130px;
+    flex-direction:column;
+    flex-wrap: wrap;
+    align-content: flex-end;
+    align-items: flex-end;
+
+}
+
+.toast-demo button {
+    min-width: 10rem;
+    margin-right: .5rem;
+}
+
+@media screen and (max-width: 960px) {
+    .toast-demo button {
+        width: 100%;
+        margin-bottom: .5rem;
+    }
+}
+
+.p-inputswitch.p-inputswitch-checked .p-inputswitch-slider {
+    background: #EF4444;
+}
+.p-inputswitch .p-inputswitch-slider {
+    background: #ced4da;
+    transition: background-color 0.2s, color 0.2s, border-color 0.2s, box-shadow 0.2s;
+    border-radius: 30px;
+}
+.column{
+    column-count: 2;
+    column-gap: 30px;
+    column-rule: 1px solid #000;
+    
+
+}

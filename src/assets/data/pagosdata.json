@@ -1,0 +1,147 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "id_proveedor": "10",      
+            "nombre": "german dario",
+            "descripcion": "transito y tte",
+            "num_factura": "101",
+            "valor_ingreso": 10000,
+            "valor_egreso":8000,
+            "id_instructor": "201",
+            "fechapago": "01/01/2000",
+            "tipopago":"Tarjeta"
+             
+            
+        },
+        
+        {
+            "id": "2",
+            "id_proveedor": "11",      
+            "nombre": "german dario",
+            "descripcion": "seguros",
+            "num_factura": "102",
+            "valor_ingreso": 10000,
+            "valor_egreso":8000,
+            "id_instructor": "202",
+            "fechapago": "01/01/2000",
+            "tipopago":"Tarjeta"
+           
+            
+        },
+        {
+            "id": "3",
+            "id_proveedor": "12",      
+            "nombre": "german dario",
+            "descripcion": "eps",
+            "num_factura": "103",
+            "valor_ingreso": 10000,
+            "valor_egreso":8000,
+            "id_instructor": "203",
+            "fechapago": "01/01/2000",
+            "tipopago":"Tarjeta"
+           
+        },
+        {
+            "id": "4",
+            "id_proveedor": "13",      
+            "nombre": "german dario",
+            "descripcion": "gasolina",
+            "num_factura": "104",
+            "valor_ingreso": 10000,
+            "valor_egreso":8000,
+            "id_instructor": "204",
+            "fechapago": "01/01/2000",
+            "tipopago":"Tarjeta"
+        },
+        {
+            "id": "5",
+            "id_proveedor": "14",      
+            "nombre": "german dario",
+            "descripcion": "varios",
+            "num_factura": "105",
+            "valor_ingreso": 10000,
+            "valor_egreso":8000,
+            "id_instructor": "205",
+            "fechapago": "01/01/2000",
+            "tipopago":"Tarjeta"
+        },
+        {
+            "id": "6",
+            "id_proveedor": "15",      
+            "nombre": "german dario",
+            "descripcion": "papeleria",
+            "num_factura": "106",
+            "valor_ingreso": 10000,
+            "valor_egreso":8000,
+            "id_instructor": "206",
+            "fechapago": "01/01/2000",
+            "tipopago":"Tarjeta"
+        },
+        {
+            "id": "7",
+            "id_proveedor": "16",      
+            "nombre": "german dario",
+            "descripcion": "tigo",
+            "num_factura": "107",
+            "valor_ingreso": 10000,
+            "valor_egreso":8000,
+            "id_instructor": "207",
+            "fechapago": "01/01/2000",
+            "tipopago":"Tarjeta"           
+        },
+        {
+            "id": "8",
+            "id_proveedor": "17",      
+            "nombre": "german dario",
+            "descripcion": "servicios",
+            "num_factura": "108",
+            "valor_ingreso": 10000,
+            "valor_egreso":8000,
+            "id_instructor": "208",
+            "fechapago": "01/01/2000",
+            "tipopago":"Tarjeta"
+            
+        },
+        {
+            "id": "9",
+            "id_proveedor": "18",      
+            "nombre": "german dario",
+            "descripcion": "epm",
+            "num_factura": "109",
+            "valor_ingreso": 10000,
+            "valor_egreso":8000,
+            "id_instructor": "209",
+            "fechapago": "01/01/2000",
+            "tipopago":"Tarjeta"
+        },
+        {
+            "id": "10",
+            "id_proveedor": "19",      
+            "nombre": "german dario",
+            "descripcion": "betancur rios",
+            "num_factura": "110",
+            "valor_ingreso": 10000,
+            "valor_egreso":8000,
+            "id_instructor": "210",
+            "fechapago": "01/01/2000",
+            "tipopago":"Tarjeta"
+        },
+        {
+            "id": "11",
+            "id_proveedor": "20",      
+            "nombre": "german dario",
+            "descripcion": "grajales rios",
+            "num_factura": "111",
+            "valor_ingreso": 10000,
+            "valor_egreso":8000,
+            "id_instructor": "211",
+            "fechapago": "01/01/2000",
+            "tipopago":"Tarjeta"
+            
+        }
+        
+            
+    ]
+
+}
